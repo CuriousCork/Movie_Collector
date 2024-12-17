@@ -1,0 +1,1 @@
+About 6 years ago, i made an app out of boredom that ripped the IMDB database, and displayed it. While its very scuffed, it should run on most Android devices (Sorry Iphone users). I assume it works with the IMDB api, but i have no acess to the original code. Enjoy this app, and make sure to not blow up your phone with it.
